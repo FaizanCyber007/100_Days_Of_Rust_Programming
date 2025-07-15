@@ -1,7 +1,6 @@
 [package]
-name = "Simple_Calculator"
+name = "Word_Counter"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-rand = "0.8"
